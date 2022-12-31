@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amruth-S05
-- 👀 I’m interested in web development, python, js
+
 - 📫 How to reach me amruth.s05@gmail.com
 
 <!---
